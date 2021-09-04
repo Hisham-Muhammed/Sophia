@@ -23,7 +23,7 @@ async function whatsAsena () {
         console.log(`${chalk.green.bold('Whats')}${chalk.blue.bold('Asena')}
 ${chalk.white.italic('AsenaString Kodu Alıcı')}
 
-${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
+${chalk.blue.italic('ℹ️  Whatsappilekk connect akkatte... Please Wait.')}`);
     });
     
 
@@ -45,7 +45,7 @@ ${chalk.blue.italic('ℹ️  Connecting to Whatsapp... Please Wait.')}`);
         }
         else {
             await conn.sendMessage(conn.user.jid,st, MessageType.text)
-            await conn.sendMessage(conn.user.jid,'*ഈ cod ആർക്കും share ചെയ്ണ്ടട്ടോ 😁🙂£Information From Hisham Muhammed!*', MessageType.text)
+            await conn.sendMessage(conn.user.jid,'*ഈ code ആർക്കും share ചെയ്ണ്ടട്ടോ 😁🙂£Information From jr-nihal!*', MessageType.text)
             console.log(
                 chalk.blue.bold('If you are installing locale, you can start the bot with node bot.js')
             );
