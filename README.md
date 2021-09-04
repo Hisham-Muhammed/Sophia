@@ -1,5 +1,5 @@
 # Sophia
-Best whatsapp bot | Reedited from whatsasena 
+Simple whatsapp bot | Reedited from whatsasena 
 
 
 <div align="center">
