@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/jr-nihal-kkd/kannappi">jr-nihal-k
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/hisham___muhammed__?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/_jr_nihal_?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot ðŸ‘‡:</h4>
 <p align="center">
@@ -43,7 +43,7 @@ Project created by <a href="https://github.com/jr-nihal-kkd/kannappi">jr-nihal-k
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hisham-muhammed&show_icons=true&theme=nightowl" alt="jr-nihal-kkd" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jr-nihal-kkd&show_icons=true&theme=nightowl" alt="jr-nihal-kkd" /></p>
 
 <p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hisham-muhammed&theme=nightowl" alt="jr-nihal-kkd" /></p>
 </details> </div>
