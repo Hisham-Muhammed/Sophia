@@ -819,7 +819,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                 }
                             }
                             else {
-                                await conn.sendMessage(conn.user.jid, '*-- ERROR REPORT [ʜͥɪͭsᷤʜᴀͫᴍͤ] --*' + 
+                                await conn.sendMessage(conn.user.jid, '*-- ERROR REPORT [KANNAPPI] --*' + 
                                     '\n*SOPHI an error has occurred!*'+
                                     '\n*This error log may include your number or the number of an opponent. Please be careful with it!*' +
                                     '\n*You can write to our Telegram group for help.*' +
@@ -829,7 +829,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     , MessageType.text, {detectLinks: false}
                                 );
                                 if (error.message.includes('URL')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [ʜͥɪͭsᷤʜᴀͫᴍͤ] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [KANNAPPI] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
                                         '\n\n*Main Error:* _Only Absolutely URLs Supported_' +
                                         '\n*Reason:* _The usage of media tools (xmedia, sticker..) in the LOG number._' +
@@ -892,7 +892,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('404')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [JulieMwol] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [Kannappi] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
                                         '\n\n*Main Error:* _Error 404 HTTPS_' +
                                         '\n*Reason:* _Failure to communicate with the server as a result of using the commands under the Heroku plugin._' +
@@ -910,7 +910,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('load.delete')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [JulieMwol] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [Kannappi] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
                                         '\n\n*Main Error:* _Reply Delete Function_' +
                                         '\n*Reason:* _Using IMG or Wiki commands._' +
@@ -919,7 +919,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('400')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [JulieMwol] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [Kannappi] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
                                         '\n\n*Main Error:* _Bailyes Action Error_ ' +
                                         '\n*Reason:* _The exact reason is unknown. More than one option may have triggered this error._' +
@@ -928,7 +928,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else if (error.message.includes('decode')) {
-                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [JulieMwol] ⚕️*' + 
+                                    return await conn.sendMessage(conn.user.jid, '*⚕️ ERROR ANALYSIS [kannappi] ⚕️*' + 
                                         '\n========== ```Error Resolved!``` ==========' +
                                         '\n\n*Main Error:* _Cannot Decode Text or Media_' +
                                         '\n*Reason:* _Incorrect use of the plug._' +
@@ -946,7 +946,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp... Please Wait.')}`);
                                     );
                                 }
                                 else {
-                                    return await conn.sendMessage(conn.user.jid, '*🙇🏻 Sorry, I Couldnt Read This Error! 🙇🏻*' +
+                                    return await conn.sendMessage(conn.user.jid, '*🙇🏻 Sorry, Entho oru thakararu pole! 🙇🏻*' +
                                         '\n_You can write to our support group for more help._'
                                         , MessageType.text
                                     );
