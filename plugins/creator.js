@@ -16,7 +16,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎Sophia😎═════╗*\n           \n*⚜═Sophia═⚜*\n\n*owner Hisham - http://Wa.me/+919400374036*\n* *\n🔰instagram:- https://youtube.com/c/ICHUTECH*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Hisham-Muhammed*"
+    r_text[1] = "*╔═════😎KANNAPPI😎═════╗*\n           \n*⚜═Sophia═⚜*\n\n*owner Hisham - http://Wa.me/+919567941560*\n* *\n🔰instagram:- https://instagram.com/_jr_nihal_?utm_medium=copy_link*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: JR-NIHAL*"
 
     
 
@@ -32,7 +32,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Sophia Owner Hisham-Muhammed═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═Kannappi Owner JR-NIHAL═💥*\n\n*💘 https://github.com/jr-nihal-kkd/kannappi*\n*"
 
     
 
@@ -56,7 +56,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-    r_text[1] = "*╔═════😎Sophia😎═════╗*\n           \n*⚜═Sophia═⚜*\n\n*owner Hisham-Muhammed - http://Wa.me/+919400374046*\n* *\n🔰Youtube: https://youtube.com/c/ICHUTECH*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: Hisham-Muhammed*"
+    r_text[1] = "*╔═════😎KANNAPPI😎═════╗*\n           \n*⚜═kannappi═⚜*\n\n*owner JR-NIHAL - http://Wa.me/+919567941560*\n* *\n🔰Youtube: https://youtu.be/_vW1_apf9tQ*            *\n*╚══════🔱🔱🔱🔱🔱═════╝*\n\n*▷Creator: JR-NIHAL*"
 
     
 
@@ -72,7 +72,7 @@ if (Config.WORKTYPE == 'private') {
 
     
 
-        r_text[1] = "*Git links*\n           *\n💥═Sophia Owner Hisham-Muhammed═💥*\n\n*💘 https://github.com/Hisham-Muhammed/Sophia*\n*     *\n💓Liyamol═Owner Saidali═*\n\n*⚜https://github.com/saidalisaid2/LiyaMol*    *\n\n⚜yt link to set bot:- https://youtu.be/_D4ZYuUSXjs*"
+        r_text[1] = "*Git links*\n           *\n💥═kannappi Owner JR-NIHAL═💥*\n\n*💘 https://github.com/jr-nihal-kkd/kannappi*\n*     *\n\n⚜yt link:- https://youtu.be/_vW1_apf9tQ*"
 
     
 
