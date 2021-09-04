@@ -26,15 +26,15 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
         l_dsc = 'Antilink aracını etkinleştirir.'
         alr_on = 'Antilink halihazırda açık!'
         alr_off = 'Antilink halihazırda kapalı!'
-        BGM_on = 'bgm option turned on!'
-        BGM_off = 'bgm option turned off'
+        BGM_on = 'kannappi bgm started!'
+        BGM_off = 'kannappi bgm stopped'
     }
     if (config.LANG == 'EN') {
         l_dsc = 'turn on and turn of bgm. -bot owner command'
         alr_on = 'Antilink is already open!'
         alr_off = 'Antilink is currently closed!'
-        BGM_on = 'bgm option turned on!'
-        BGM_off = 'bgm option turned off'
+        BGM_on = 'kannappi bgm startted..🥳!'
+        BGM_off = 'kannappi bgm stopped..🤐'
     }
     if (config.LANG == 'AZ') {
         l_dsc = 'Antilink alətini aktivləşdirir.'
