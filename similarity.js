@@ -25,7 +25,7 @@ function similarity(first, second) {
 			? firstBigrams.get(bigram)
 			: 0;
 
-		if (count > 0) {
+		f (count > 0) {
 			firstBigrams.set(bigram, count - 1);
 			intersectionSize++;
 		}
