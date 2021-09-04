@@ -17,7 +17,7 @@ Asena.addCommand({ pattern: 'ig ?(.*)', fromMe: false, desc: IG_DESC}, async (me
 
     if (!userName) return await message.sendMessage(errorMessage(NEED_WORD))
 
-    await message.sendMessage(infoMessage("Downloading the Post..."))
+    await message.sendMessage(infoMessage("Downloading the Post...🤗"))
 
     await axios
       .get(`https://api-anoncybfakeplayer.herokuapp.com/igdown?url=${userName}`)
@@ -32,11 +32,11 @@ Asena.addCommand({ pattern: 'ig ?(.*)', fromMe: false, desc: IG_DESC}, async (me
         const msg = `${type}`
 
 	 if (msg === 'image') { await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.image, {
-          caption: "Made By WhatsAsenaPublic"
+          caption: "Made By kannappi..😁"
         })}
 		 	 
 	if (msg === 'video') { await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {
-          caption: "Made By WhatsAsenaPublic"
+          caption: "Made By kannappi..😁"
         })}
 	
         
@@ -71,7 +71,7 @@ Asena.addCommand({ pattern: 'fb ?(.*)', fromMe: false, desc: FBDESC }, async (me
         const msg = `*${CAPTION}*: ${judul}`
 
         await message.sendMessage(Buffer.from(profileBuffer.data), MessageType.video, {
-          caption: "Made By WhatsAsenaPublic"
+          caption: "Made By Kannappi..😁"
         })
       })
       .catch(
