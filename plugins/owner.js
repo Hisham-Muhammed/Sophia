@@ -26,7 +26,7 @@ if (Config.WORKTYPE == 'private') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'ʟɪͥʏͭᴀᷤᴍᷟᴏͤʟ Bot created by *saidali*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'```KANNAPPI``` Bot created by *JR-NIHAL-KKD*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n---------------------', MessageType.text);
@@ -44,7 +44,7 @@ else if (Config.WORKTYPE == 'public') {
         }
 
         if (Config.PLK == 'default') {
-            await message.client.sendMessage(message.jid,'ʟɪͥʏͭᴀᷤᴍᷟᴏͤʟ Bot created by *Afnan pallikkel*' , MessageType.text);
+            await message.client.sendMessage(message.jid,'KANNAPPI Bot created by *JR-NIHAL-KKD*' , MessageType.text);
         }
         else {
             await message.client.sendMessage(message.jid,Config.PLK + '\n\n--------------------', MessageType.text);
