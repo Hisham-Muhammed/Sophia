@@ -1,4 +1,4 @@
-/*CODED BY HISHAM-MUHAMMED 
+/*CODED BY JR-NIHAL-KKD 
 */
 
 const Hisham = require('../events');
@@ -18,7 +18,7 @@ async function checkImAdmin(message, user = message.client.user.jid) {
     return sonuc.includes(true);
 }
 
-Hisham.addCommand({pattern: 'tg ?(.*)', fromMe: true, dontAddCommandList: true, onlyGroup: true, desc: Lang.BAN_DESC}, (async (message, match) => {  
+Nihal.addCommand({pattern: 'tg ?(.*)', fromMe: true, dontAddCommandList: true, onlyGroup: true, desc: Lang.BAN_DESC}, (async (message, match) => {  
     if (!message.reply_message) {
         if (match[1] !== '') {
             grup = await message.client.groupMetadata(message.jid);
