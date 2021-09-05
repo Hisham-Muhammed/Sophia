@@ -1,5 +1,5 @@
 /* Moded by Insane boy
-reedit by saidali&Hisham
+reedit by saidali&Hisham&nihal
 copy അടിക്കുമ്പോൾ പേര് മാറ്റരുത് ഒരുപാട് ദിവസത്തെ കഷ്ടപ്പാട് ആണ്
 
 Contact us :
@@ -21,7 +21,7 @@ const ll ="*Need some Word*"
 
 const Ln = "*▷🤖nigalk avashiyam ulla perukal cherkkan◁* "
 
- const code = "*╔════◉ CAMANDS ◉════╗*\n\n            *❖═List═❖*\n \n*🔮.quby1    ❴text❵*\n*🔮.quby2    ❴text❵*\n*🔮.quby3    ❴text❵*\n*🔮.quby4    ❴text❵*\n*🔮.cat1    ❴text❵*\n*🔮.cat2    ❴text❵*\n*🔮.cat3    ❴text❵*\n*🔮.cat4    ❴text❵*\n*🔮.doggy1    ❴text❵*\n*🔮.doggy2    ❴text❵*\n*🔮.doggy3    ❴text❵*\n*🔮.doggy4    ❴text❵*\n*🔮.trollikka1    ❴text❵*\n*🔮.trollikka2    ❴text❵*\n*🔮.trollikka3    ❴text❵*\n*🔮.trollikka4    ❴text❵*\n\n*╚═══❖══▣══▣══❖═══╝*\n\n*▷Re мoded вy: SAIDALI&Hisham *\n*▷Specιal тнanĸѕ тo ιnѕane вoy*"
+ const code = "*╔════◉ CAMANDS ◉════╗*\n\n            *❖═List═❖*\n \n*🔮.quby1    ❴text❵*\n*🔮.quby2    ❴text❵*\n*🔮.quby3    ❴text❵*\n*🔮.quby4    ❴text❵*\n*🔮.cat1    ❴text❵*\n*🔮.cat2    ❴text❵*\n*🔮.cat3    ❴text❵*\n*🔮.cat4    ❴text❵*\n*🔮.doggy1    ❴text❵*\n*🔮.doggy2    ❴text❵*\n*🔮.doggy3    ❴text❵*\n*🔮.doggy4    ❴text❵*\n*🔮.trollikka1    ❴text❵*\n*🔮.trollikka2    ❴text❵*\n*🔮.trollikka3    ❴text❵*\n*🔮.trollikka4    ❴text❵*\n\n*╚═══❖══▣══▣══❖═══╝*\n\n*▷Re мoded вy: SAIDALI&Hisham&Nihal *\n*▷Specιal тнanĸѕ тo ιnѕane вoy*"
 
 if (Config.WORKTYPE == 'public') {
 
