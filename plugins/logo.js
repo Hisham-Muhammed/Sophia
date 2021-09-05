@@ -793,7 +793,7 @@ Asena.addCommand({pattern: 'silk ?(.*)', fromMe: false, dontAddCommandList: true
 
     var webimage = await axios.get(`https://api.xteam.xyz/textpro/ph?text=${topText}&text2=${bottomText}&APIKEY=d9f297dbf7b0bbf4`, { responseType: 'arraybuffer' })
 
-   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg , caption: 'Made by Sophia Bot'})
+   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg , caption: 'Made by Kannappi Bot'})
 
     }));
 
@@ -803,7 +803,7 @@ Asena.addCommand({pattern: 'silk ?(.*)', fromMe: false, dontAddCommandList: true
 
     var webimage = await axios.get(`https://api.xteam.xyz/textpro/snowtext?text=${match[1]}&APIKEY=d9f297dbf7b0bbf4`, { responseType: 'arraybuffer' })
 
-   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Made by Sophia Bot```'})
+   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: '```Made by KANNAPPI Bot```'})
 
     }));
 
@@ -813,7 +813,7 @@ Asena.addCommand({pattern: 'grass ?(.*)', fromMe: false, dontAddCommandList: tru
 
     var webimage = await axios.get(`https://videfikri.com/api/textmaker/paperonglass/?text=${match[1]}`, { responseType: 'arraybuffer' })
 
-    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by Sophia Bot'})
+    await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by Kannappi Bot'})
 
     }));
 
@@ -853,6 +853,6 @@ Asena.addCommand({pattern: 'grass ?(.*)', fromMe: false, dontAddCommandList: tru
 
     var webimage = await axios.get(`https://api.xteam.xyz/textpro/bloodontheroastedglass?text=${match[1]}&APIKEY=d9f297dbf7b0bbf4`, { responseType: 'arraybuffer' })
 
-   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by Sophia Bot'})
+   await message.client.sendMessage(message.jid,Buffer.from(webimage.data), MessageType.image, {mimetype: Mimetype.jpg, caption: 'Made by kannappi '})
 
     }));
