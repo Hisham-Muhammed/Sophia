@@ -25,8 +25,8 @@ let baseURI = '/apps/' + config.HEROKU.APP_NAME;
    
     if (config.LANG == 'ML') {
         l_dsc = 'chilla theri vilichaal spot kick. -bot owner command.'
-        THERI_on = 'bgm option turned on'
-        THERI_off = 'bgm option turned off'
+        THERI_on = ' therivili kick option turned on'
+        THERI_off = 'therivili kick  option turned off'
     }
    
     Asena.addCommand({pattern: 'theri ?(.*)', fromMe: true, desc: l_dsc, usage: '.theri no / yes' }, (async (message, match) => {
