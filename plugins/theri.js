@@ -64,7 +64,8 @@ Asena.addCommand({on: 'text', fromMe: false, deleteCommand: false}, (async (mess
         let regex7 = new RegExp('Thaayoli')
         let regex8 = new RegExp('Thayolli')
         let regex9 = new RegExp('Thaayolli')
-        let regex10 = new RegExp('Thayyoli')
+        let regex10 = new RegExp('Kunna')
+        let regex11 = new RegExp('kunna')
         if (regex1.test(message.message)) {
             var us = await checkUsAdmin(message)
             var im = await checkImAdmin(message)
