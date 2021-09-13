@@ -8,11 +8,11 @@ Simple whatsapp bot | Reedited from whatsasena
 <a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Hisham-muhammed"><img title="Author" src="https://img.shields.io/badge/Author-hisham-muhammed/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/redbee46/Sophia"><img title="Author" src="https://img.shields.io/badge/Author-hisham-muhammed/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hisham-muhammed</a> to make it public
+Project created by <a href="https://github.com/redbee46/Sophia/Sophia-Mwol">Hisham-muhammed</a> to make it public
     <br>
        | Â© |
         Reserved |
@@ -71,7 +71,7 @@ Click Sophia logo to Join Support Group 2ðŸ‘‡
   
 [![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@phaticusthiccy/WhatsAsena-QR)
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hisham-Muhammed/Sophia-.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/redbee46/Sophia/Sophia-.git)
      </div>
 <br>
 <br >
@@ -86,7 +86,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Hisham-Muhammed/Sophia-Mwol
+$ git clone https://github.com/redbee46/Sophia/Sophia-Mwol
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -96,7 +96,7 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Hisham-Muhammed/Sophia-Mwol
+$ git clone https://github.com/redbee46/Sophia/Sophia-Mwol
 $ cd Sophia-Mwol
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -117,9 +117,9 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## Developers
   <div align="center">
     
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
+  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/redbee46/Sophia.png?size=100)](https://github.com/redbee46/Sophia) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
 ----|----|----
-[ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
+[ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Hisham-Muhammed](https://github.com/redbee46/Sophia) | [saidalisaid2](https://github.com/saidalisaid2)
 Base, Bug Fixes, Modules |Â Modifiying  as   public, Bug Fixes, Modules| Bug Fixes, Modules
   </div>
     
