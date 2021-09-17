@@ -52,6 +52,11 @@
             "required": false,
             "value": "990580a2e31add15990665b0"
         },
+         "TALKING_PINKY": {
+            "description": "Hesabınızı bir Chatbot'a Çevirin! Turn your account into a chatbot!",
+            "required": true,
+            "value": "false"
+        },
         "ANTİ_LİNK": {
             "description": "Link Engelleme Sistemi. Link Blocking System.",
             "required": true,
