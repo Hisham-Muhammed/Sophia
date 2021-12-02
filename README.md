@@ -8,11 +8,11 @@ Simple whatsapp bot | Reedited from whatsasena
 <a href="#"><img title="Sophia" src="https://img.shields.io/badge/Sophia-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
   <p align="center">
-<a href="https://github.com/Hisham-muhammed"><img title="Author" src="https://img.shields.io/badge/Author-hisham-muhammed/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/Fahadhti"><img title="Author" src="https://img.shields.io/badge/Author-Fahadhti/Sophia?color=f7df1e&style=for-the-badge&logo=whatsapp"></a>
 </p>
 </div>
 <p align="center">
-Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hisham-muhammed</a> to make it public
+Project created by <a href="https://github.com/Fahadhti/Sophia-Mwol">Fahadhti</a> to make it public
     <br>
        | Â© |
         Reserved |
@@ -23,29 +23,29 @@ Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hish
 
   <p align="center">
   <a href="httsp://github.com/ameer-kallumthodi/pikachu">
-    <img src="https://img.shields.io/github/repo-size/Hisham-muhammed/Sophia?color=green&label=Repo%20total%20size&style=plastic">
+    <img src="https://img.shields.io/github/repo-size/Fahadhti/Sophia?color=green&label=Repo%20total%20size&style=plastic">
 <p align="center">
-<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/Hisham-muhammed?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Hisham-muhammed/Sophia-1?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Hisham-muhammed/sophia-1?color=f7df1e&style=flat-square"></a>
-<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Hisham-muhammed/Sophia-1?label=Watchers&color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/followers"><img title="Followers" src="https://img.shields.io/github/followers/fahadhti47?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Fahadhti/Sophia-1?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Fahadhti/sophia-1?color=f7df1e&style=flat-square"></a>
+<a href="https://github.com/ameer-kallumthodi/pikachu/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Fahadhti/Sophia-1?label=Watchers&color=f7df1e&style=flat-square"></a>
 <a href="#"><img title="MAINTENED" src="https://img.shields.io/badge/UNMAINTENED-YES-f7df1e.svg"</a>
 </p>
 
 <h3 align="center">Contact Me:</h3>
 <p align="center">
-<a href="https://instagram.com/hisham___muhammed__?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
+<a href="https://instagram.com/fahadhti47?utm_medium=copy_link" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="kyrie.baran" height="30" width="40" /></a>
 </p>
 <h4 align="center">Support Video For Deploy Bot ðŸ‘‡:</h4>
 <p align="center">
-<a href="https://youtu.be/JzTpSfw6jcM" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
+<a href="https://youtube.com/channel/UCRvfblXl7bzbcaEf32fXqRA" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Logo_of_YouTube_%282015-2017%29.svg/1200px-Logo_of_YouTube_%282015-2017%29.svg.png" height="45" width="90" /></a>
 </p>
   
 
 <div align="center">
-<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Hisham-muhammed&show_icons=true&theme=nightowl" alt="Hisham-muhammed" /></p>
+<p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=Fahadhti&show_icons=true&theme=nightowl" alt="Fahadhti" /></p>
 
-<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Hisham-muhammed&theme=nightowl" alt="Hisham-muhammed" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Fahadhti&theme=nightowl" alt="Fahadhti" /></p>
 </details> </div>
 
 
@@ -53,7 +53,7 @@ Project created by <a href="https://github.com/Hisham-Muhammed/Sophia-Mwol">Hish
 Click WA logo to Join Support Group ðŸ‘‡
     <br>
 <br>
-  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CYGahR3hC1DHq44n4ri5J6)
+  [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/Jc77krejULn0WWxX3l84GL)
 
 ## 
   <h3 align="center">ðŸ“¢ Support Group 2:</h3>
@@ -61,7 +61,7 @@ Click WA logo to Join Support Group ðŸ‘‡
 Click Sophia logo to Join Support Group 2ðŸ‘‡
     <br>
 <br>
-  <a href="https://chat.whatsapp.com/Kne4KggCeYoE9vIc6iZLZJ" target="blank"><img align="center" src="https://i.imgur.com/1CjbIG8.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
+  <a href="https://wa.me/qr/6UASBVYDHNRAB1" target="blank"><img align="center" src="https://i.imgur.com/1CjbIG8.jpeg" alt="kyrie.baran" height="200" width="200" /></a>
 </p>
     
 ## Setup
@@ -69,7 +69,7 @@ Click Sophia logo to Join Support Group 2ðŸ‘‡
 
   ### Simple Method
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@ichu786780/Sophia-Mwol)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Fahadhti/Sophia-Mwol)
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Hisham-Muhammed/-SOPHIA.git)
      </div>
@@ -86,7 +86,7 @@ GET QR
 $ apt update
 $ apt install nodejs --fix-missing
 $ pkg install git
-$ git clone https://github.com/Hisham-Muhammed/Sophia-Mwol
+$ git clone https://github.com/Fahadhti/Sophia-Mwol
 $ cd pikachu
 $ chmod +x *
 $ npm install @adiwajshing/baileys
@@ -96,37 +96,5 @@ $ node qr.js
       
 ```js
 SETUP
-$ git clone https://github.com/Hisham-Muhammed/Sophia-Mwol
-$ cd Sophia-Mwol
-$ chmod +x *
-$ npm install @adiwajshing/baileys
-$ node qr.js
-   // scan the qr using whatsapp web on your phone
-$ node bot.js
-```
+$ git clone https://github.com/Fahadhti/Sophia-Mw
 
-
-### âš ï¸ Warning! 
-```
-Due to Userbot; Your WhatsApp account may be banned.
-This is an open source project, you are responsible for everything you do. 
-Absolutely, Asena executives do not accept responsibility.
-By establishing the Asena, you are deemed to have accepted these responsibilities.
-```
-
-## Developers
-  <div align="center">
-    
-  [![ameer-kallumthodi](https://github.com/ameer-kallumthodi.png?size=100)](https://github.com/ameer-kallumthodi) |  [![Hisham-Muhammed](https://github.com/Hisham-Muhammed.png?size=100)](https://github.com/Hisham-Muhammed) | [![saidalisaid2](https://github.com/saidalisaid2.png?size=100)](https://github.com/saidalisaid2) 
-----|----|----
-[ameer-kallumthodi](https://github.com/ameer-kallumthodi)  | [Hisham-Muhammed](https://github.com/Hisham-Muhammed) | [saidalisaid2](https://github.com/saidalisaid2)
-Base, Bug Fixes, Modules |Â Modifiying  as   public, Bug Fixes, Modules| Bug Fixes, Modules
-  </div>
-    
-
-
-## License
-This project is protected by `GNU General Public Licence v3.0` license.
-
-### Disclaimer
-`WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
